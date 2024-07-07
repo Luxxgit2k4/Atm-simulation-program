@@ -1,3 +1,4 @@
+#ATM Simulation Program
 ## Description
 
 This is a simple Java console-based application simulating basic ATM operations. The program allows users to perform the following actions:
@@ -64,4 +65,5 @@ Feel free to fork this repository, make improvements, and submit pull requests. 
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](https://opensource.org/license/mit)
+
