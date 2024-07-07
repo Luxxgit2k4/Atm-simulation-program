@@ -28,7 +28,7 @@ This project is intended for practice and educational purposes.
 
 1. Clone the repository:
 ```
-git clone https://github.com/Luxxgit2k4/atm-simulation.git
+git clone https://github.com/Luxxgit2k4/Atm-simulation-program.git
 
 ```
 
