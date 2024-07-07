@@ -1,4 +1,4 @@
-ATM Simulation Program
+# ATM Simulation Program
 ## Description
 
 This is a simple Java console-based application simulating basic ATM operations. The program allows users to perform the following actions:
